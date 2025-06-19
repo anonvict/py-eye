@@ -10,6 +10,14 @@
 
 </details>
 
+<details>
+  <summary>💧 Dokumentasi short Float</summary>
+  <br>
+  <a href="https://www.youtube.com/watch?v=3rr94x6We7I" target="_blank">
+      <img src="http://img.youtube.com/vi/3rr94x6We7I/0.jpg" alt="Dokumentasi Video">
+  </a>
+</details>
+
 ## ⚙️ Installation
 ```
 # Package Install 📦
