@@ -2,7 +2,7 @@
 
 **Gunakan Termux:float (Floating window) agar lebih menarik 😸**
 <details>
-  <summary>💧 **Disini** :</summary>
+  <summary>💧 Disini :</summary>
 <br>
   
 - Termux:Float [apk](https://f-droid.org/repo/com.termux.window_15.apk)
@@ -36,11 +36,8 @@ def play_sound():
 ---
 
 > **Jika animasi mata rusak alias ada seperti garis lubang hitam di tengah eskpresi (tidak auto block full) kamu bisa zoom layar atau cubit layar terminal/termux/float. sesuaikan hingga masalah garis hitam menghilang.**
-<details>
-  <summary>💧 **Seperti ini** :</summary>
-<br>
 ![](scr/bad.jpg)
-</details>
+
 ---
 
 <details>
